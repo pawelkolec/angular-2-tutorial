@@ -11,3 +11,5 @@ npm-debug.log
 .npmlock
 local.log
 tests_output
+src/app/*.js
+src/app/*.js.map
